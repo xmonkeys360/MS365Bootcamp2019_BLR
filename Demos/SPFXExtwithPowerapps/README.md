@@ -11,3 +11,7 @@ Solution Approach
 2.	Design SPFx extension solution to deploy at specific library, which will call Modal Dialog with Iframe.
 3.	Design Power Apps form calls the same from Modal Dialog with Iframe section. 
 4.	PowerApps form then saves the data into SharePoint Online List or Library.
+
+HandsOn Lab for SPFX with PowerApps::
+
+https://social.technet.microsoft.com/wiki/contents/articles/53442.leverage-power-apps-with-sharepoint-framework-extension.aspx
